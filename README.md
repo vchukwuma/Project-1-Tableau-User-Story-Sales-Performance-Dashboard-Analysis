@@ -4,24 +4,24 @@
 This user story outlines the specifications for building two dashboards using Tableau to help stakeholders, including sales managers and executives, analyze sales performance. 
 
 ## Sales Dashboard | Requirements
-Dashboard Purpose
+### Dashboard Purpose:
 The purpose of the sales dashboard is to present an overview of the sales metrics and trends to analyze year-over-year sales performance and understand sales trends.
 
 ## Key Requirements
 ### KPI Overview
 Display a summary of total sales, profits, and quantity for the current year and the previous year.
 
-### Sales Trends
+## Sales Trends
  – Present the data for each KPI monthly for both the current year and the previous year.
 
  – Identify months with the highest and lowest sales and make them easy to recognize.
 
-### Product Subcategory Comparison
+## Product Subcategory Comparison
  – Compare sales performance by different product subcategories for the current year and the previous year.
 
  – Include a comparison of sales with profit.
 
-### Weekly Trends for Sales & Profit
+## Weekly Trends for Sales & Profit
  – Present weekly sales and profit data for the current year.
 
  – Display the average weekly values.
@@ -36,10 +36,10 @@ Display a summary of total sales, profits, and quantity for the current year and
 
  – Make the charts and graphs interactive, enabling users to filter data using the charts.
 
-Data Filters
+## Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
-## The Design
+# The Design
 
 KPI Special Characters:
 
@@ -47,12 +47,14 @@ KPI Special Characters:
 
 ▲ 0.00%; ▼ -0.00%;
 
+
+
 KPIs:
 
 
 Sales Trends & Product Subcategory Comparison:
 
-Weekly Trends fro Sales & Profit
+Weekly Trends for Sales & Profit
 
 
 
