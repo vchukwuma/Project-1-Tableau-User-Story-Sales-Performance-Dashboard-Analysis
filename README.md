@@ -1,15 +1,13 @@
-# Project-1-Tableau-User-Story-Sales-Performance-Dashboard-Analysis
+# Project 1: Tableau User Story | Sales Performance Dashboard Analysis
 
-# Tableau User Story | Sales Performance:
-
-# Introduction
+## Introduction
 This user story outlines the specifications for building two dashboards using Tableau to help stakeholders, including sales managers and executives, analyze sales performance. 
 
-# Sales Dashboard | Requirements
+## Sales Dashboard | Requirements
 Dashboard Purpose
 The purpose of the sales dashboard is to present an overview of the sales metrics and trends to analyze year-over-year sales performance and understand sales trends.
 
-# Key Requirements
+## Key Requirements
 ### KPI Overview
 Display a summary of total sales, profits, and quantity for the current year and the previous year.
 
@@ -30,7 +28,7 @@ Display a summary of total sales, profits, and quantity for the current year and
 
  – Highlight weeks that are above and below the average to draw attention to sales & profit performance.
  
-# Design & Interactivity Requirements:
+## Design & Interactivity Requirements:
   ### Dashboard Dynamic
  – The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
 
@@ -41,7 +39,7 @@ Display a summary of total sales, profits, and quantity for the current year and
 Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
-# The Design
+## The Design
 
 KPI Special Characters:
 
