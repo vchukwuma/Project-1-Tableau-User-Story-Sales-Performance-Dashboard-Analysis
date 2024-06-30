@@ -49,17 +49,17 @@ KPI Special Characters:
 
 
 
-KPIs: Total Sales
+## KPIs: Total Sales
 ![image](https://github.com/vchukwuma/Project-1-Tableau-User-Story-Sales-Performance-Dashboard-Analysis/blob/main/KPI%20Sales.png?raw=true)
 
 
 
-Total Profit
+## Total Profit
 ![image](https://github.com/vchukwuma/Project-1-Tableau-User-Story-Sales-Performance-Dashboard-Analysis/assets/89330614/94ae2c02-e696-4b4b-a30f-cc2ed0f07fc4)
 
 
 
-Total Quantity
+## Total Quantity
 ![image](https://github.com/vchukwuma/Project-1-Tableau-User-Story-Sales-Performance-Dashboard-Analysis/blob/main/KPI%20Quantity.png?raw=true)
 
 Sales Trends & Product Subcategory Comparison:
