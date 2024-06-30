@@ -41,7 +41,7 @@ Weekly Trends for Sales & Profit
 Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
-The Design
+# The Design
 
 KPI Special Characters:
 
