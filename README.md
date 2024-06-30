@@ -62,12 +62,19 @@ KPI Special Characters:
 ## Total Quantity
 ![image](https://github.com/vchukwuma/Project-1-Tableau-User-Story-Sales-Performance-Dashboard-Analysis/blob/main/KPI%20Quantity.png?raw=true)
 
-Sales Trends & Product Subcategory Comparison:
-
-Weekly Trends for Sales & Profit
 
 
+## Sales Trends & Product Subcategory Comparison
+![image](https://github.com/vchukwuma/Project-1-Tableau-User-Story-Sales-Performance-Dashboard-Analysis/blob/main/Subcategory%20Comparison.png?raw=true)
 
+
+
+## Weekly Trends for Sales & Profit
+![image](https://github.com/vchukwuma/Project-1-Tableau-User-Story-Sales-Performance-Dashboard-Analysis/blob/main/Weekly%20Trends.png?raw=true)
+
+
+## Final Dashboard
+![image](https://github.com/vchukwuma/Project-1-Tableau-User-Story-Sales-Performance-Dashboard-Analysis/blob/main/Sales%20Dashboard%20with%20Filters%20.png?raw=true)
 
 
 
