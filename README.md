@@ -1,4 +1,4 @@
-# Project 1: Tableau User Story | Sales Performance Dashboard Analysis
+# Project: Tableau User Story | Sales Performance Dashboard Analysis
 
 ## Introduction
 This user story outlines the specifications for building two dashboards using Tableau to help stakeholders, including sales managers and executives, analyze sales performance. 
