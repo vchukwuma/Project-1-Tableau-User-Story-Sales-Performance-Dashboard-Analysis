@@ -41,13 +41,6 @@ Allow users to filter data by product information like category and subcategory 
 
 # The Design
 
-KPI Special Characters:
-
-⬤ Above ⬤ Below
-
-▲ 0.00%; ▼ -0.00%;
-
-
 
 ## KPIs: Total Sales
 ![image](https://github.com/vchukwuma/Project-1-Tableau-User-Story-Sales-Performance-Dashboard-Analysis/blob/main/KPI%20Sales.png?raw=true)
